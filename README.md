@@ -53,7 +53,7 @@ WWY는 구직자와 기업을 이어주는 채용공고 웹 사이트 입니다.
 
 |                                                          문정준                                                           |                                                           손영민                                                            |                                                       서회정                                                        |                                                        편준민                                                        |
 |:----------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
-| <img src="https://github.com/human-mjj/recruit-wwy/blob/master/README/240125_ynn1.png?raw=true" alt="문정준" width="150"> | <img src="https://github.com/human-mjj/recruit-wwy/blob/master/README/Screenshot_38.png?raw=true" alt="손영민" width="150"> | <img src="https://github.com/human-mjj/recruit-wwy/blob/master/README/image.png?raw=true" alt="서회정" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="편준민" width="150"> |
+| <img src="https://github.com/human-mjj/recruit-wwy/blob/master/README/240125_ynn1.png?raw=true" alt="문정준" width="150"> | <img src="https://github.com/human-mjj/recruit-wwy/blob/master/README/Screenshot_38.png?raw=true" alt="손영민" width="150"> | <img src="https://github.com/human-mjj/recruit-wwy/blob/master/README/image.png?raw=true" alt="서회정" width="150"> | <img src="https://github.com/JunMin0529/recruit-wwy-v1/blob/master/README/unnamed.png?raw=true" alt="편준민" width="150"> |
 |                                                           팀장                                                           |                                                            팀원                                                            |                                                        팀원                                                        |                                                        팀원                                                         |
 |                                           [GitHub](https://github.com/Sxias)                                           |                                           [GitHub](https://github.com/son7571)                                           |                                      [GitHub](https://github.com/clubnerdy)                                      |                                      [GitHub](https://github.com/JunMin0529)                                      |
 
@@ -125,9 +125,16 @@ WWY는 구직자와 기업을 이어주는 채용공고 웹 사이트 입니다.
 ![video](https://github.com/user-attachments/assets/39a48db4-4f4a-43e1-b091-0eba6d330dee)
 
 # 보완할 점
-- 
+- 오류 발생 시 클라이언트 측에 상세한 피드백을 전달하지 못한 점
+- 채용 공고 목록 화면에 즐겨찾기 기능이 누락된 점
+- SNS 회원가입 기능이 구현되지 않은 점
+- 이메일 중복 체크 및 입력값 유효성 검사 등 보안 관련 처리가 미흡했던 점
 
 # 프로젝트 후기
+- 처음부터 끝까지 직접 프로젝트를 구현하면서 설계, 개발, 테스트 등 전반적인 과정을 경험하며 개발자로서 한 단계 성장할 수 있었습니다.
+- 팀원들과의 협업 과정에서 효과적인 소통과 역할 분담이 프로젝트 완성도에 얼마나 중요한지 몸소 느낄 수 있었습니다.
+- 일정 관리에 대한 경험이 부족해 계획한 기능을 모두 구현하지 못한 점이 아쉬웠고, 이를 계기로 더 현실적인 일정 계획과 우선순위 설정의 필요성을 배웠습니다.
+- CSR 구조로 개발하면서 처음엔 책임 분리가 되지 않아 코드 가독성과 유지보수성이 떨어졌지만, 점차 컴포넌트 단위로 역할을 명확히 나누는 방법을 익히며 구조적인 사고를 키울 수 있었습니다.
 
 # 코드 컨벤션
 
