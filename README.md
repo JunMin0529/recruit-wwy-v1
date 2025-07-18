@@ -34,7 +34,7 @@ WWY는 구직자와 기업을 이어주는 채용공고 웹 사이트 입니다.
 - 채용 웹사이트를 만들면서 생각보다 비동기 처리가 필요한 부분이 많다는 것을 느꼈습니다. 푸시 알림, 실시간 알림, 채용 정보 수정 등 사용자와 빠르게 상호작용해야 하는 기능이 많았기 때문입니다. 이를 계기로 비동기 처리에 강점을 가진 Node.js를 알게 되었고, 이후에는 Node.js를 공부하여 이러한 기능들을 더욱 유연하고 효율적으로 구현해보고 싶다는 생각을 하게 되었습니다.
 
   
-### Stacks Used
+### 사용 기술
 
 <div>
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Java.png?raw=true" width="80">
@@ -44,7 +44,7 @@ WWY는 구직자와 기업을 이어주는 채용공고 웹 사이트 입니다.
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Ajax.png?raw=true" width="80">
 </div>
 
-### Cooperated With
+### 협업 도구
 
 <div>
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Github.png?raw=true" width="80">
